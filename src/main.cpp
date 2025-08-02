@@ -14,7 +14,7 @@ int main() {
 
     while (true) {
         if (attempt == password) {
-            cout << "Bulundu! " << attempt << endl;
+            cout << "Found! " << attempt << endl;
             break;
         }
 
